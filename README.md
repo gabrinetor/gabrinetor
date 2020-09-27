@@ -2,4 +2,4 @@
 
 I have experience with development and testing. 
 
-I am an eternal learner. 🌱
+I am an eternal learner. 
