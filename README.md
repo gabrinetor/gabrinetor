@@ -1,5 +1,3 @@
 ### I'm Gabriela 👋🏿
 
-I have experience with development and testing. 
-
-I am an eternal learner. 
+I`m an eternal learner, enthusiast for technology with experience in Quality Assurance.
